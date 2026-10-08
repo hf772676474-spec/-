@@ -1,0 +1,92 @@
+[
+  {
+    "名称": "Kim等2021森林结构Meta",
+    "链接": "https://doi.org/10.3390/healthcare9111427",
+    "用于何处": "林分密度与冠层证据",
+    "_source": {
+      "file": "五类环境指标.xlsx",
+      "sheet": "文献与官方来源",
+      "row": 2
+    }
+  },
+  {
+    "名称": "Bell等2025自然暴露时间Meta",
+    "链接": "https://doi.org/10.1016/j.jenvp.2025.102632",
+    "用于何处": "认知改善与时长",
+    "_source": {
+      "file": "五类环境指标.xlsx",
+      "sheet": "文献与官方来源",
+      "row": 3
+    }
+  },
+  {
+    "名称": "Hunter等2019自然接触",
+    "链接": "https://doi.org/10.3389/fpsyg.2019.00722",
+    "用于何处": "压力与时长",
+    "_source": {
+      "file": "五类环境指标.xlsx",
+      "sheet": "文献与官方来源",
+      "row": 4
+    }
+  },
+  {
+    "名称": "Zhu等2024自然声景Meta",
+    "链接": "https://doi.org/10.1016/j.scitotenv.2024.171052",
+    "用于何处": "自然声音与健康",
+    "_source": {
+      "file": "五类环境指标.xlsx",
+      "sheet": "文献与官方来源",
+      "row": 5
+    }
+  },
+  {
+    "名称": "秦岭国家植物园园区介绍",
+    "链接": "https://www.qinlingbg.com/post/园区简介/",
+    "用于何处": "专类园",
+    "_source": {
+      "file": "五类环境指标.xlsx",
+      "sheet": "文献与官方来源",
+      "row": 6
+    }
+  },
+  {
+    "名称": "秦岭国家植物园科普馆",
+    "链接": "https://www.qinlingbg.com/post/科普馆/",
+    "用于何处": "科普馆数据",
+    "_source": {
+      "file": "五类环境指标.xlsx",
+      "sheet": "文献与官方来源",
+      "row": 7
+    }
+  },
+  {
+    "名称": "牛背梁国家森林公园",
+    "链接": "https://www.eco.gov.cn/news_info/40436.html",
+    "用于何处": "羚牛谷和六尺岭",
+    "_source": {
+      "file": "五类环境指标.xlsx",
+      "sheet": "文献与官方来源",
+      "row": 8
+    }
+  },
+  {
+    "名称": "西安发布朱雀游线",
+    "链接": "https://k.sina.cn/article_3757167087_dff1d1ef02001bq4m.html",
+    "用于何处": "历史登山线",
+    "_source": {
+      "file": "五类环境指标.xlsx",
+      "sheet": "文献与官方来源",
+      "row": 9
+    }
+  },
+  {
+    "名称": "牛背梁保护区北沟基地",
+    "链接": "https://www.fnrrc.com/hangyedongtai/7695.html",
+    "用于何处": "历史森林体验路线",
+    "_source": {
+      "file": "五类环境指标.xlsx",
+      "sheet": "文献与官方来源",
+      "row": 10
+    }
+  }
+]

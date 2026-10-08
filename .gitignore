@@ -1,0 +1,26 @@
+node_modules/
+dist/
+.vite/
+coverage/
+.pnpm-store/
+.python-packages/
+.venv/
+*.tsbuildinfo
+*.log
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

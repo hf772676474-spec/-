@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-10-08T19:56:32+08:00",
+  "sourceFiles": [
+    "十篇核心论文.xlsx",
+    "五类环境指标.xlsx",
+    "秦岭植物园和牛背梁分段数据.xlsx"
+  ],
+  "workbookCount": 3,
+  "sheetCount": 15,
+  "rawRecordCount": 126,
+  "datasets": {
+    "literature.json": 10,
+    "populations.json": 6,
+    "environment-indicators.json": 38,
+    "screening-rules.json": 21,
+    "qinling-sites.json": 21,
+    "sources.json": 9,
+    "field-tasks.json": 15,
+    "raw-workbooks.json": 3
+  },
+  "integrity": {
+    "missingSourceFiles": [],
+    "unknownValuesPreserved": true,
+    "numericThresholdsInferred": false
+  }
+}
